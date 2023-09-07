@@ -1,6 +1,8 @@
 # 2023학년도 2학기 빅데이터 분석 주문형 강좌 학습자료
 
 [1주차 내용](https://github.com/Goodgaym/202302PthBigdata/blob/master/Week01_Class/00Class.ipynb)   
+[2주차 내용](https://github.com/Goodgaym/202302PthBigdata/blob/master/Week02_ClassExt/Structor.ipynb)   
+[3주차 내용](https://github.com/Goodgaym/202302PthBigdata/blob/master/Week03_Inheritance/Inheritance.ipynb)   
  
 <br/><br/><br/>
 
